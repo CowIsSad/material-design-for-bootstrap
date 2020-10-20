@@ -1,0 +1,20 @@
+
+body {
+    background-color: #222422;
+    color: white;
+}
+
+.social-icons {
+    padding-top: 20px;
+}
+
+.social-icons a {
+    color: white;
+    font-size: 40px;
+    padding: 20px;
+    transition: all 0.5s;
+}
+
+.social-icons a:hover {
+    color: #e6014e;
+}
